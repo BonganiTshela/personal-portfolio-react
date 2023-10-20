@@ -68,6 +68,10 @@ export const skillsSection: SkillsSectionType = {
           iconifyTag: 'vscode-icons:file-type-cucumber',
         },
         {
+          skillName: 'Typesript',
+          iconifyTag: 'vscode-icons:file-type-typescript-official',
+        },
+        {
           skillName: 'JavaScript',
           iconifyTag: 'logos:javascript',
         },
